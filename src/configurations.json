@@ -1,0 +1,7 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "mattzmyname",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
