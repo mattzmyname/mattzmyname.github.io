@@ -130,7 +130,7 @@ class ProjectCard extends Component {
                         <hr />
                         <Language value={this.state.value.languages_url}></Language>
                         <p className="card-text">
-                            <a href="" className=" text-dark card-link mr-4">
+                            <a className=" text-dark card-link mr-4">
                                 <i className="fab fa-github" /> Stars{" "}
                                 <span className="badge badge-dark">
                   {this.state.stargazers_count}
