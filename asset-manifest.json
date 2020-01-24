@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3dfc00a.chunk.css",
-    "main.js": "/static/js/main.f31317ba.chunk.js",
-    "main.js.map": "/static/js/main.f31317ba.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a9946424.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a9946424.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.0c3e505a.chunk.js": "/static/js/2.0c3e505a.chunk.js",
-    "static/js/2.0c3e505a.chunk.js.map": "/static/js/2.0c3e505a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bc6eae2dcf46dbb34a00e96aac396353.js": "/precache-manifest.bc6eae2dcf46dbb34a00e96aac396353.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.b3dfc00a.chunk.css.map": "/static/css/main.b3dfc00a.chunk.css.map"
+    "main.css": "/projects/static/css/main.b3dfc00a.chunk.css",
+    "main.js": "/projects/static/js/main.b6902ab5.chunk.js",
+    "main.js.map": "/projects/static/js/main.b6902ab5.chunk.js.map",
+    "runtime~main.js": "/projects/static/js/runtime~main.f5f7314f.js",
+    "runtime~main.js.map": "/projects/static/js/runtime~main.f5f7314f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/projects/static/css/2.266e55a5.chunk.css",
+    "static/js/2.0c3e505a.chunk.js": "/projects/static/js/2.0c3e505a.chunk.js",
+    "static/js/2.0c3e505a.chunk.js.map": "/projects/static/js/2.0c3e505a.chunk.js.map",
+    "index.html": "/projects/index.html",
+    "precache-manifest.e6df9b7b164dee11e580ad64f2fe2ac3.js": "/projects/precache-manifest.e6df9b7b164dee11e580ad64f2fe2ac3.js",
+    "service-worker.js": "/projects/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/projects/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b3dfc00a.chunk.css.map": "/projects/static/css/main.b3dfc00a.chunk.css.map"
   }
 }
